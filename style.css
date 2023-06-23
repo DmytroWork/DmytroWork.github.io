@@ -79,7 +79,7 @@ body{
 }
 #header .spec-btn{
 	display: none;
-	padding: 20px;
+	margin: 10px;
 	width: 30px;
 	cursor: pointer;
 	text-align: center;
